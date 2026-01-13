@@ -1,9 +1,4 @@
 [
-    {
-    "version": "0.0.3-test",
-    "windows": "https://github.com/Amedeo11/ProgrammaObiettivi-updates/releases/download/0.0.2-test/ProgrammaObiettivi-0.0.2-test.exe",
-    "description": "✅ - Aggiunto messaggio di errore se connessione assente durante controllo aggiornamenti.\n- Aggiunte icone per Annulla azione, Ripeti azione, Controlla aggiornamenti.\n- Allineati a destra i contatori delle categorie nello slider.\n- Disattivato pulsante 'elimina obiettivo' quando nessun obiettivo è selezionato.\n- Le categorie aggiunte vengono immediatamente selezionate.\n- Resa fissa la distanza tra counter e titolo della categoria sopra la tabella.\n- Aggiunta scroll-bar se le categorie crescono oltre l'altezza massima.\n- Sostituito messaggio predefinito della tabella, se una categoria non ha obiettivi.\n- Fix: quando il cursore esce dal campo di modifica, si rimane in modalità di modifica titolo/sottititolo categoria."
-  },
   {
     "version": "0.0.2",
     "windows": "https://github.com/Amedeo11/ProgrammaObiettivi-updates/releases/download/0.0.2-test/ProgrammaObiettivi-0.0.2-test.exe",
