@@ -2,7 +2,7 @@
   {
     "version": "0.0.3",
     "windows": "https://github.com/Amedeo11/ProgrammaObiettivi-updates/releases/download/0.0.3/ProgrammaObiettivi-0.0.3.exe",
-    "description": "✅ A'ggiunta' splash screen.\n✅ se connessione assente durante controllo aggiornamenti."
+    "description": "✅ Aggiunta splash screen.\n✅ Disattivato pulsante 'elimina obiettivo' quando nessun obiettivo è selezionato."
   },
   {
     "version": "0.0.2",
